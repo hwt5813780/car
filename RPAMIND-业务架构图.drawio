@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-04T09:26:05.399Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="ziO7q3CwcChz2aMrckzu" version="24.0.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.8.4" pages="3">
   <diagram id="QMqiZ2GDBsnpyi7WLgiz" name="Page-1">
-    <mxGraphModel dx="2927" dy="1044" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2442" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -28,10 +28,10 @@
         <mxCell id="ZttovpieoR-79sJcMYOA-68" value="业务数据" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1;fontColor=#4D4D4D;fontFamily=阿里巴巴普惠体;" parent="1" vertex="1">
           <mxGeometry x="-280" y="769.99" width="120" height="30.01" as="geometry" />
         </mxCell>
-        <mxCell id="ZttovpieoR-79sJcMYOA-17" value="合同管理机器人" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#4D4D4D;fontStyle=1;fontFamily=阿里巴巴普惠体;" parent="1" vertex="1">
+        <mxCell id="ZttovpieoR-79sJcMYOA-17" value="文档助手" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#4D4D4D;fontStyle=1;fontFamily=阿里巴巴普惠体;" parent="1" vertex="1">
           <mxGeometry x="-270.5" y="369.58" width="119.27" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MdFNAgGWL3GxQWSpr4tQ-2" value="合同智能起草" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;arcSize=4;fontStyle=0;fontFamily=阿里巴巴普惠体;strokeColor=#d6b656;fillColor=#fff2cc;" parent="1" vertex="1">
+        <mxCell id="MdFNAgGWL3GxQWSpr4tQ-2" value="智能起草" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;arcSize=4;fontStyle=0;fontFamily=阿里巴巴普惠体;strokeColor=#d6b656;fillColor=#fff2cc;" parent="1" vertex="1">
           <mxGeometry x="-261.6129411764706" y="420.00333333333333" width="101.49882352941177" height="34.412" as="geometry" />
         </mxCell>
         <mxCell id="9BalmKLf0Tfa42KLOofF-3" value="机&lt;br style=&quot;font-size: 24px;&quot;&gt;器&lt;br style=&quot;font-size: 24px;&quot;&gt;人&lt;br style=&quot;font-size: 24px;&quot;&gt;用&lt;br style=&quot;font-size: 24px;&quot;&gt;工&lt;br style=&quot;font-size: 24px;&quot;&gt;平&lt;br style=&quot;font-size: 24px;&quot;&gt;台" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;arcSize=0;shadow=0;fontFamily=阿里巴巴普惠体;sketch=0;glass=0;fillColor=#287EF5;strokeColor=#6c8ebf;gradientColor=none;fontColor=#FFFFFF;" parent="1" vertex="1">
@@ -73,22 +73,22 @@
         <mxCell id="1G_qjWxplky9GHR5EYdk-14" value="服务层" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;strokeColor=#FFB570;fillColor=#f5f5f5;size=20;fontStyle=1;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="205.85999999999999" y="361.87" width="115" height="105.42" as="geometry" />
         </mxCell>
-        <mxCell id="1G_qjWxplky9GHR5EYdk-16" value="合同智能起草" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;arcSize=4;fontStyle=0;fontFamily=阿里巴巴普惠体;strokeColor=#d6b656;fillColor=#fff2cc;" parent="1" vertex="1">
+        <mxCell id="1G_qjWxplky9GHR5EYdk-16" value="智能编辑" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;arcSize=4;fontStyle=0;fontFamily=阿里巴巴普惠体;strokeColor=#d6b656;fillColor=#fff2cc;" parent="1" vertex="1">
           <mxGeometry x="-261.6129411764706" y="465.5933333333333" width="101.49882352941177" height="34.412" as="geometry" />
         </mxCell>
-        <mxCell id="1G_qjWxplky9GHR5EYdk-17" value="合同智能审批" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;arcSize=4;fontStyle=0;fontFamily=阿里巴巴普惠体;strokeColor=#d6b656;fillColor=#fff2cc;" parent="1" vertex="1">
+        <mxCell id="1G_qjWxplky9GHR5EYdk-17" value="智能审批" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;arcSize=4;fontStyle=0;fontFamily=阿里巴巴普惠体;strokeColor=#d6b656;fillColor=#fff2cc;" parent="1" vertex="1">
           <mxGeometry x="-261.6129411764706" y="514.5933333333334" width="101.49882352941177" height="34.412" as="geometry" />
         </mxCell>
-        <mxCell id="1G_qjWxplky9GHR5EYdk-18" value="合同智能比对" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;arcSize=4;fontStyle=0;fontFamily=阿里巴巴普惠体;strokeColor=#d6b656;fillColor=#fff2cc;" parent="1" vertex="1">
+        <mxCell id="1G_qjWxplky9GHR5EYdk-18" value="智能比对" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;arcSize=4;fontStyle=0;fontFamily=阿里巴巴普惠体;strokeColor=#d6b656;fillColor=#fff2cc;" parent="1" vertex="1">
           <mxGeometry x="-261.6129411764706" y="562.8033333333334" width="101.49882352941177" height="34.412" as="geometry" />
         </mxCell>
-        <mxCell id="1G_qjWxplky9GHR5EYdk-19" value="合同智能履约" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;arcSize=4;fontStyle=0;fontFamily=阿里巴巴普惠体;strokeColor=#d6b656;fillColor=#fff2cc;" parent="1" vertex="1">
+        <mxCell id="1G_qjWxplky9GHR5EYdk-19" value="智能审核" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;arcSize=4;fontStyle=0;fontFamily=阿里巴巴普惠体;strokeColor=#d6b656;fillColor=#fff2cc;" parent="1" vertex="1">
           <mxGeometry x="-261.6129411764706" y="612.5933333333334" width="101.49882352941177" height="34.412" as="geometry" />
         </mxCell>
         <mxCell id="1G_qjWxplky9GHR5EYdk-20" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;arcSize=0;shadow=0;glass=0;sketch=0;opacity=80;container=0;fontFamily=阿里巴巴普惠体;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="-90" y="355" width="160" height="315" as="geometry" />
         </mxCell>
-        <mxCell id="1G_qjWxplky9GHR5EYdk-21" value="业务助理机器人" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#4D4D4D;fontStyle=1;fontFamily=阿里巴巴普惠体;" parent="1" vertex="1">
+        <mxCell id="1G_qjWxplky9GHR5EYdk-21" value="运营助手" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#4D4D4D;fontStyle=1;fontFamily=阿里巴巴普惠体;" parent="1" vertex="1">
           <mxGeometry x="-70.5" y="369.58" width="119.27" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1G_qjWxplky9GHR5EYdk-22" value="业务数据采集" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;arcSize=4;fontStyle=0;fontFamily=阿里巴巴普惠体;strokeColor=#d6b656;fillColor=#fff2cc;" parent="1" vertex="1">
@@ -109,7 +109,7 @@
         <mxCell id="0h7H6QFIkBvaYsDnCxvT-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;arcSize=0;shadow=0;glass=0;sketch=0;opacity=80;container=0;fontFamily=阿里巴巴普惠体;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="142.91" y="535" width="240" height="135" as="geometry" />
         </mxCell>
-        <mxCell id="0h7H6QFIkBvaYsDnCxvT-2" value="业务助理机器人" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#4D4D4D;fontStyle=1;fontFamily=阿里巴巴普惠体;" parent="1" vertex="1">
+        <mxCell id="0h7H6QFIkBvaYsDnCxvT-2" value="数据助手" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#4D4D4D;fontStyle=1;fontFamily=阿里巴巴普惠体;" parent="1" vertex="1">
           <mxGeometry x="203.77" y="540" width="119.27" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0h7H6QFIkBvaYsDnCxvT-3" value="基础数据识别" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;arcSize=4;fontStyle=0;fontFamily=阿里巴巴普惠体;strokeColor=#d6b656;fillColor=#fff2cc;" parent="1" vertex="1">
@@ -145,7 +145,7 @@
         <mxCell id="0h7H6QFIkBvaYsDnCxvT-10" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;arcSize=0;shadow=0;glass=0;sketch=0;opacity=80;container=0;fontFamily=阿里巴巴普惠体;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="460" y="355" width="160" height="315" as="geometry" />
         </mxCell>
-        <mxCell id="0h7H6QFIkBvaYsDnCxvT-11" value="IT运维机器人" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#4D4D4D;fontStyle=1;fontFamily=阿里巴巴普惠体;" parent="1" vertex="1">
+        <mxCell id="0h7H6QFIkBvaYsDnCxvT-11" value="IT助手" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#4D4D4D;fontStyle=1;fontFamily=阿里巴巴普惠体;" parent="1" vertex="1">
           <mxGeometry x="479.5" y="369.58" width="119.27" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0h7H6QFIkBvaYsDnCxvT-12" value="系统数据同步" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;arcSize=4;fontStyle=0;fontFamily=阿里巴巴普惠体;strokeColor=#d6b656;fillColor=#fff2cc;" parent="1" vertex="1">
@@ -163,7 +163,7 @@
         <mxCell id="0h7H6QFIkBvaYsDnCxvT-17" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;arcSize=0;shadow=0;glass=0;sketch=0;opacity=80;container=0;fontFamily=阿里巴巴普惠体;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="650" y="355" width="160" height="315" as="geometry" />
         </mxCell>
-        <mxCell id="0h7H6QFIkBvaYsDnCxvT-18" value="财务助理机器人" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#4D4D4D;fontStyle=1;fontFamily=阿里巴巴普惠体;" parent="1" vertex="1">
+        <mxCell id="0h7H6QFIkBvaYsDnCxvT-18" value="财务助手" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#4D4D4D;fontStyle=1;fontFamily=阿里巴巴普惠体;" parent="1" vertex="1">
           <mxGeometry x="669.5" y="369.58" width="119.27" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0h7H6QFIkBvaYsDnCxvT-19" value="发票开具审核" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;arcSize=4;fontStyle=0;fontFamily=阿里巴巴普惠体;strokeColor=#d6b656;fillColor=#fff2cc;" parent="1" vertex="1">
@@ -181,46 +181,46 @@
         <mxCell id="0h7H6QFIkBvaYsDnCxvT-23" value="纳税申报" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;arcSize=4;fontStyle=0;fontFamily=阿里巴巴普惠体;strokeColor=#d6b656;fillColor=#fff2cc;" parent="1" vertex="1">
           <mxGeometry x="678.3870588235294" y="612.5933333333334" width="101.49882352941177" height="34.412" as="geometry" />
         </mxCell>
-        <mxCell id="0h7H6QFIkBvaYsDnCxvT-24" value="RPA流程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#4D4D4D;fontStyle=1;fontFamily=阿里巴巴普惠体;" parent="1" vertex="1">
+        <mxCell id="0h7H6QFIkBvaYsDnCxvT-24" value="RPA任务流程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#4D4D4D;fontStyle=1;fontFamily=阿里巴巴普惠体;" parent="1" vertex="1">
           <mxGeometry x="-72.07000000000001" y="711.6999999999999" width="119.27" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0h7H6QFIkBvaYsDnCxvT-25" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;arcSize=0;shadow=0;glass=0;sketch=0;opacity=80;container=0;fontFamily=阿里巴巴普惠体;strokeColor=#d6b656;fillColor=#fff2cc;" parent="1" vertex="1">
           <mxGeometry x="-160.11" y="751.79" width="295.36" height="105.5" as="geometry" />
         </mxCell>
-        <mxCell id="pXwYT4CWtMP8QEXP_L0X-1" value="流程信息" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;arcSize=4;fontStyle=0;fontFamily=阿里巴巴普惠体;strokeColor=#D6D6D6;" parent="1" vertex="1">
+        <mxCell id="pXwYT4CWtMP8QEXP_L0X-1" value="任务管理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;arcSize=4;fontStyle=0;fontFamily=阿里巴巴普惠体;strokeColor=#D6D6D6;" parent="1" vertex="1">
           <mxGeometry x="-145.75" y="761.8199999999999" width="81" height="34.41" as="geometry" />
         </mxCell>
         <mxCell id="0h7H6QFIkBvaYsDnCxvT-27" value="流程步骤" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;arcSize=4;fontStyle=0;fontFamily=阿里巴巴普惠体;strokeColor=#D6D6D6;" parent="1" vertex="1">
           <mxGeometry x="-52.93" y="761.8199999999999" width="81" height="34.41" as="geometry" />
         </mxCell>
-        <mxCell id="0h7H6QFIkBvaYsDnCxvT-28" value="命令与命令库" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;arcSize=4;fontStyle=0;fontFamily=阿里巴巴普惠体;strokeColor=#D6D6D6;" parent="1" vertex="1">
+        <mxCell id="0h7H6QFIkBvaYsDnCxvT-28" value="RPA-Task" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;arcSize=4;fontStyle=0;fontFamily=阿里巴巴普惠体;strokeColor=#D6D6D6;" parent="1" vertex="1">
           <mxGeometry x="42.25" y="761.8199999999999" width="81" height="34.41" as="geometry" />
         </mxCell>
         <mxCell id="0h7H6QFIkBvaYsDnCxvT-29" value="流程块" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;arcSize=4;fontStyle=0;fontFamily=阿里巴巴普惠体;strokeColor=#D6D6D6;" parent="1" vertex="1">
           <mxGeometry x="-145.75" y="812.8799999999999" width="81" height="34.41" as="geometry" />
         </mxCell>
-        <mxCell id="0h7H6QFIkBvaYsDnCxvT-30" value="审批记录" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;arcSize=4;fontStyle=0;fontFamily=阿里巴巴普惠体;strokeColor=#D6D6D6;" parent="1" vertex="1">
+        <mxCell id="0h7H6QFIkBvaYsDnCxvT-30" value="工序" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;arcSize=4;fontStyle=0;fontFamily=阿里巴巴普惠体;strokeColor=#D6D6D6;" parent="1" vertex="1">
           <mxGeometry x="-52.93000000000001" y="812.8799999999999" width="81" height="34.41" as="geometry" />
         </mxCell>
-        <mxCell id="0h7H6QFIkBvaYsDnCxvT-31" value="编辑记录" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;arcSize=4;fontStyle=0;fontFamily=阿里巴巴普惠体;strokeColor=#D6D6D6;" parent="1" vertex="1">
+        <mxCell id="0h7H6QFIkBvaYsDnCxvT-31" value="命令库" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;arcSize=4;fontStyle=0;fontFamily=阿里巴巴普惠体;strokeColor=#D6D6D6;" parent="1" vertex="1">
           <mxGeometry x="42.25" y="812.8799999999999" width="81" height="34.41" as="geometry" />
         </mxCell>
-        <mxCell id="0h7H6QFIkBvaYsDnCxvT-32" value="RPA任务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#4D4D4D;fontStyle=1;fontFamily=阿里巴巴普惠体;" parent="1" vertex="1">
+        <mxCell id="0h7H6QFIkBvaYsDnCxvT-32" value="智能体" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#4D4D4D;fontStyle=1;fontFamily=阿里巴巴普惠体;" parent="1" vertex="1">
           <mxGeometry x="195.62" y="711.6999999999999" width="119.27" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0h7H6QFIkBvaYsDnCxvT-33" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;arcSize=0;shadow=0;glass=0;sketch=0;opacity=80;container=0;fontFamily=阿里巴巴普惠体;strokeColor=#d6b656;fillColor=#fff2cc;" parent="1" vertex="1">
           <mxGeometry x="155.25" y="751.79" width="200" height="105.5" as="geometry" />
         </mxCell>
-        <mxCell id="0h7H6QFIkBvaYsDnCxvT-34" value="任务信息" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;arcSize=4;fontStyle=0;fontFamily=阿里巴巴普惠体;strokeColor=#D6D6D6;" parent="1" vertex="1">
+        <mxCell id="0h7H6QFIkBvaYsDnCxvT-34" value="智能体编排" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;arcSize=4;fontStyle=0;fontFamily=阿里巴巴普惠体;strokeColor=#D6D6D6;" parent="1" vertex="1">
           <mxGeometry x="169.61" y="761.8199999999999" width="81" height="34.41" as="geometry" />
         </mxCell>
-        <mxCell id="0h7H6QFIkBvaYsDnCxvT-35" value="运行配置" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;arcSize=4;fontStyle=0;fontFamily=阿里巴巴普惠体;strokeColor=#D6D6D6;" parent="1" vertex="1">
+        <mxCell id="0h7H6QFIkBvaYsDnCxvT-35" value="智能体信息" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;arcSize=4;fontStyle=0;fontFamily=阿里巴巴普惠体;strokeColor=#D6D6D6;" parent="1" vertex="1">
           <mxGeometry x="262.43" y="761.8199999999999" width="81" height="34.41" as="geometry" />
         </mxCell>
-        <mxCell id="0h7H6QFIkBvaYsDnCxvT-37" value="任务记录" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;arcSize=4;fontStyle=0;fontFamily=阿里巴巴普惠体;strokeColor=#D6D6D6;" parent="1" vertex="1">
+        <mxCell id="0h7H6QFIkBvaYsDnCxvT-37" value="智能体应用" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;arcSize=4;fontStyle=0;fontFamily=阿里巴巴普惠体;strokeColor=#D6D6D6;" parent="1" vertex="1">
           <mxGeometry x="169.61" y="812.8799999999999" width="81" height="34.41" as="geometry" />
         </mxCell>
-        <mxCell id="0h7H6QFIkBvaYsDnCxvT-38" value="运行成果" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;arcSize=4;fontStyle=0;fontFamily=阿里巴巴普惠体;strokeColor=#D6D6D6;" parent="1" vertex="1">
+        <mxCell id="0h7H6QFIkBvaYsDnCxvT-38" value="智能体商城" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;arcSize=4;fontStyle=0;fontFamily=阿里巴巴普惠体;strokeColor=#D6D6D6;" parent="1" vertex="1">
           <mxGeometry x="262.43" y="812.8799999999999" width="81" height="34.41" as="geometry" />
         </mxCell>
         <mxCell id="0h7H6QFIkBvaYsDnCxvT-40" value="数字员工" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#4D4D4D;fontStyle=1;fontFamily=阿里巴巴普惠体;" parent="1" vertex="1">
@@ -241,22 +241,22 @@
         <mxCell id="0h7H6QFIkBvaYsDnCxvT-45" value="工作成果" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;arcSize=4;fontStyle=0;fontFamily=阿里巴巴普惠体;strokeColor=#D6D6D6;" parent="1" vertex="1">
           <mxGeometry x="482.43000000000006" y="812.8799999999999" width="81" height="34.41" as="geometry" />
         </mxCell>
-        <mxCell id="0h7H6QFIkBvaYsDnCxvT-46" value="工作汇报" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#4D4D4D;fontStyle=1;fontFamily=阿里巴巴普惠体;" parent="1" vertex="1">
+        <mxCell id="0h7H6QFIkBvaYsDnCxvT-46" value="AI资源" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontColor=#4D4D4D;fontStyle=1;fontFamily=阿里巴巴普惠体;" parent="1" vertex="1">
           <mxGeometry x="620.73" y="711.6999999999999" width="119.27" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0h7H6QFIkBvaYsDnCxvT-47" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;arcSize=0;shadow=0;glass=0;sketch=0;opacity=80;container=0;fontFamily=阿里巴巴普惠体;strokeColor=#d6b656;fillColor=#fff2cc;" parent="1" vertex="1">
           <mxGeometry x="590" y="751.79" width="200" height="105.5" as="geometry" />
         </mxCell>
-        <mxCell id="0h7H6QFIkBvaYsDnCxvT-48" value="订阅信息" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;arcSize=4;fontStyle=0;fontFamily=阿里巴巴普惠体;strokeColor=#D6D6D6;" parent="1" vertex="1">
+        <mxCell id="0h7H6QFIkBvaYsDnCxvT-48" value="大模型" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;arcSize=4;fontStyle=0;fontFamily=阿里巴巴普惠体;strokeColor=#D6D6D6;" parent="1" vertex="1">
           <mxGeometry x="604.36" y="761.8199999999999" width="81" height="34.41" as="geometry" />
         </mxCell>
-        <mxCell id="0h7H6QFIkBvaYsDnCxvT-49" value="汇报模板" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;arcSize=4;fontStyle=0;fontFamily=阿里巴巴普惠体;strokeColor=#D6D6D6;" parent="1" vertex="1">
+        <mxCell id="0h7H6QFIkBvaYsDnCxvT-49" value="数字人" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;arcSize=4;fontStyle=0;fontFamily=阿里巴巴普惠体;strokeColor=#D6D6D6;" parent="1" vertex="1">
           <mxGeometry x="697.1800000000001" y="761.8199999999999" width="81" height="34.41" as="geometry" />
         </mxCell>
-        <mxCell id="0h7H6QFIkBvaYsDnCxvT-50" value="任务统计" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;arcSize=4;fontStyle=0;fontFamily=阿里巴巴普惠体;strokeColor=#D6D6D6;" parent="1" vertex="1">
+        <mxCell id="0h7H6QFIkBvaYsDnCxvT-50" value="知识库" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;arcSize=4;fontStyle=0;fontFamily=阿里巴巴普惠体;strokeColor=#D6D6D6;" parent="1" vertex="1">
           <mxGeometry x="604.36" y="812.8799999999999" width="81" height="34.41" as="geometry" />
         </mxCell>
-        <mxCell id="0h7H6QFIkBvaYsDnCxvT-51" value="汇报记录" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;arcSize=4;fontStyle=0;fontFamily=阿里巴巴普惠体;strokeColor=#D6D6D6;" parent="1" vertex="1">
+        <mxCell id="0h7H6QFIkBvaYsDnCxvT-51" value="数据库" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;arcSize=4;fontStyle=0;fontFamily=阿里巴巴普惠体;strokeColor=#D6D6D6;" parent="1" vertex="1">
           <mxGeometry x="697.1800000000001" y="812.8799999999999" width="81" height="34.41" as="geometry" />
         </mxCell>
         <mxCell id="0h7H6QFIkBvaYsDnCxvT-52" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=阿里巴巴普惠体;fontSize=18;strokeWidth=1;strokeColor=none;" parent="1" vertex="1">
