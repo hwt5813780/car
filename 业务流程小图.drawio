@@ -1,1 +1,76 @@
-<mxfile host="app.diagrams.net" modified="2022-02-07T06:04:51.193Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" version="16.4.11" etag="OWCPGPtgVfFM8RqZ6Nw7" type="github"><diagram id="v3zu0jhw_HTjpBp0unv8">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.15">
+  <diagram id="v3zu0jhw_HTjpBp0unv8" name="第 1 页">
+    <mxGraphModel dx="1042" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="huumPHei3dxgAzYyJz---9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="huumPHei3dxgAzYyJz---2" target="huumPHei3dxgAzYyJz---4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="huumPHei3dxgAzYyJz---2" value="能力库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="170" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="huumPHei3dxgAzYyJz---3" value="添加能力" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="240" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="huumPHei3dxgAzYyJz---10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="huumPHei3dxgAzYyJz---4" target="huumPHei3dxgAzYyJz---5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="huumPHei3dxgAzYyJz---4" value="确认来源（coze，AIHub）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="310" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="huumPHei3dxgAzYyJz---5" value="修改标准定价" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="380" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="huumPHei3dxgAzYyJz---14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="huumPHei3dxgAzYyJz---8" target="huumPHei3dxgAzYyJz---12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="huumPHei3dxgAzYyJz---8" value="客户管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="170" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="huumPHei3dxgAzYyJz---11" value="新增客户单位" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="240" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="huumPHei3dxgAzYyJz---15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="huumPHei3dxgAzYyJz---12" target="huumPHei3dxgAzYyJz---13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="huumPHei3dxgAzYyJz---12" value="新增用户单位" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="310" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="huumPHei3dxgAzYyJz---17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="huumPHei3dxgAzYyJz---13" target="huumPHei3dxgAzYyJz---16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="huumPHei3dxgAzYyJz---13" value="项目管理（自动创建）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="310" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="huumPHei3dxgAzYyJz---19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="huumPHei3dxgAzYyJz---16" target="huumPHei3dxgAzYyJz---18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="huumPHei3dxgAzYyJz---16" value="单位配置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="380" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="huumPHei3dxgAzYyJz---21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="huumPHei3dxgAzYyJz---18" target="huumPHei3dxgAzYyJz---20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="huumPHei3dxgAzYyJz---18" value="统一能力配置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="450" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="huumPHei3dxgAzYyJz---25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="huumPHei3dxgAzYyJz---20" target="huumPHei3dxgAzYyJz---24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="huumPHei3dxgAzYyJz---20" value="单独能力配置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="520" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="huumPHei3dxgAzYyJz---27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="huumPHei3dxgAzYyJz---24" target="huumPHei3dxgAzYyJz---26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="huumPHei3dxgAzYyJz---24" value="合同管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="520" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="huumPHei3dxgAzYyJz---26" value="绑定客户单位和能力列表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="585" width="90" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
